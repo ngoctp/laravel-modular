@@ -1,0 +1,19 @@
+{
+    "name": "ngoctp/laravel-modular",
+    "description": "Modularize your Laravel application easily",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NgocTP",
+            "email": "phuongngoc@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "NgocTP\\LaravelModular\\": "src/"
+        }
+    }
+}
